@@ -40,7 +40,7 @@
     "passport-strategy": "1.x.x"
   },
   "devDependencies": {
-    "chai": "2.x.x",
+    "chai": "6.2.2",
     "chai-passport-strategy": "3.x.x",
     "jws": "^4.0.0",
     "make-node": "0.3.x",
